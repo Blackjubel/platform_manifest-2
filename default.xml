@@ -36,7 +36,7 @@
            sync-j="4" />
 
   <!-- Tipsy stuff -->
-  <project path="build" name="tipsy_build" remote="tipsy" >
+  <project path="build" name="SmombieRom/tipsy_build" remote="github" revision="6.0" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="android_bionic" remote="tipsy" />

@@ -56,6 +56,7 @@
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="tipsy" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="tipsy" />
   <project path="vendor/tipsy" name="SmombieRom/vendor_tipsy" remote="github" revision="6.0" />
+  <project path="packages/apps/masquerade" name="TeamSubstratum/masquerade" remote="github" revision="master" />
 
   <!-- OTA -->
   <project path="packages/apps/SlimOTA" name="packages_apps_SlimOTA" remote="tipsy" />

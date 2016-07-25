@@ -159,8 +159,8 @@
   <project path="system/vold" name="android_system_vold" remote="slim" />
 
   <!-- CMHW -->
-  <project path="frameworks/opt/hardware" name="TeamExodus/frameworks_opt_hardware" remote="github" revision="EXODUS-6.0" />
-  <project path="hardware/cyanogen" name="TeamExodus/hardware_cyanogen" remote="github" revision="EXODUS-6.0" />
+  <project path="frameworks/opt/hardware" name="CyanogenMod/android_frameworks_opt_hardware" remote="github" revision="cm-13.0" />
+  <project path="hardware/cyanogen" name="CyanogenMod/android_hardware_cyanogen" remote="github" revision="cm-13.0" />
 
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
   <project path="art" name="android_art" remote="slim"  />
